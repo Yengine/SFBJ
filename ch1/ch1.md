@@ -1,6 +1,7 @@
 #如何使用本书
 
 -1.1本书基本内容
+
     *ch2: C语言语法
     *ch3：入门模拟              -入门
     *ch4：算法初步              -入门
@@ -20,6 +21,7 @@
     编译器:Dev-C++,C-Free,Code::Blocks
 
 -1.3 在线评测系统
+
     在线评测系统（Online Judge,OJ).
     PAT:    http://www.patest.cn/
     Codeup: http://www.codeup.cn/
@@ -31,6 +33,7 @@
     ACdream:http://acdream.info/
 
 -1.4 常见测评结果
+
     *答案正确(Accepted,AC)
     *编译错误(Compile Error,CE)
     *答案错误(Wrong Answer,WA)
@@ -41,6 +44,7 @@
     *输出超限(Output Limit Exceeded,OLE)
 
 -1.5 如何高效做题
+
     *1. 按照算法专题进行集中性题目训练
         切忌胡乱活着按照题号刷（就像每次背单词都从abandon开始一样）
         要形成完整的知识体系
